@@ -19,7 +19,7 @@ function mostrar() {
 	let nombremax;
 
 
-	for (contador = 0; contador < 2; contador++) {
+	for (contador = 0; contador < 5; contador++) {
 
 		do {
 			nombre = prompt("Ingrese un nombre");
